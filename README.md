@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Jack Zheng 👋
 
-<!--
-**zhengjack88/zhengjack88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏃 **Builder & Sports Event Tech Enthusiast**  
+Passionate about building lightweight, offline-first tools, volunteer operations software, and practical open-source utilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Open Source Project
+
+- **[event-roster-tool](https://github.com/zhengjack88/event-roster-tool)**  
+  *Lightning-fast, 100% offline volunteer roster & material distribution tool for sports events (Marathons, Trail Races, Cycling Tours).*  
+  - ⚡ **Zero Backend & 100% Offline-Ready**
+  - 🔗 **Manager Station Isolation Center** (Auto group extraction, isolated HTML export, scan-to-go QR packs)
+  - 📲 **Native iOS / PWA Support** (Fullscreen web app with one-tap home screen install)
+  - 🌐 [Live Demo](https://zhengjack88.github.io/event-roster-tool/) | [中文体验](https://zhengjack88.github.io/event-roster-tool/index_zh.html)
+
+---
+
+### 🛠 Tech & Focus
+`JavaScript` `PWA / Offline-First` `Sports Event Ops` `Volunteer Management` `Single-file Tools`
+
+---
+*“A tiny spark can light the way for others.”*
