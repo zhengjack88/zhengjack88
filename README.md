@@ -1,11 +1,11 @@
 # Hi there, I'm Jack Zheng 👋
 
 🏃 **Builder & Sports Event Tech Enthusiast**  
-Passionate about building lightweight, offline-first tools, volunteer operations software, and practical open-source utilities.
+Passionate about building lightweight, offline-first tools, volunteer operations software, and practical source-available utilities.
 
 ---
 
-### 🚀 Featured Open Source Project
+### 🚀 Featured Project
 
 - **[event-roster-tool](https://github.com/zhengjack88/event-roster-tool)**  
   *Lightning-fast, 100% offline volunteer roster & material distribution tool for sports events (Marathons, Trail Races, Cycling Tours).*  
